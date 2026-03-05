@@ -1,4 +1,4 @@
-# -<h1 align="center">Hi 👋, I'm 詹子瑩</h1>
+<h1 align="center">Hi 👋, I'm 詹子瑩</h1>
 - 🔭 I’m interest in **音樂，看電影**
 
 - 🌱 I’m currently learning **English**
